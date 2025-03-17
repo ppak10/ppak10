@@ -1,4 +1,4 @@
-Graduate Student Research @ Carnegie Mellon University
+Graduate Student Researcher @ [Carnegie Mellon University](https://sites.google.com/view/barati/peter)
 
 <!--
 **ppak10/ppak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
